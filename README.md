@@ -37,6 +37,7 @@ Each Jupyter Notebook corresponds to a weekly lab session (Weeks 1 to 5) and inc
 **Name:** Paarth Baphna  
 **MISIS:** M01095290  
 **GitHub:** [@Paarth022](https://github.com/Paarth022)
+**Email:**pb918@live.mdx.ac.uk
 
 ---
 
